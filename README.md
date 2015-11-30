@@ -22,4 +22,9 @@ git status //查看当前状态
 git rm fileOrFolder //删除文件或文件夹
 
 this is a test image
+
 <img src = "https://raw.githubusercontent.com/lymenglei/neverGiveUp/master/Resources/HelloWorld.png" >
+
+
+11.30 23:26
+修改GameScene，并添加一个截图
